@@ -1,0 +1,65 @@
+Yapılacak işlem: Sulama
+Mevcut konum: 6. tarla
+Sulama için en kısa yol: 6-6-4
+Toplam gidilen: ...
+Sulama bitti
+Yapılacak işlem: Gübreleme
+Mevcut konum: 4. tarla
+Gübreleme için en kısa yol: 4-14-3
+Toplam gidilen: ...
+Gübreleme bitti
+Yapılacak işlem: Sulama
+Mevcut konum: 4. tarla
+Sulama için en kısa yol: 4-14-3
+Toplam gidilen: ...
+Sulama bitti
+Yapılacak işlem: Çapalama
+Mevcut konum: 3. tarla
+Çapalama için en kısa yol: 3-14-1
+Toplam gidilen: ...
+Çapalama bitti
+Yapılacak işlem: Sulama
+Mevcut konum: 3. tarla
+Sulama için en kısa yol: 3-14-1
+Toplam gidilen: ...
+Sulama bitti
+Yapılacak işlem: Çapalama
+Mevcut konum: 1. tarla
+Çapalama için en kısa yol: 1-6-2
+Toplam gidilen: ...
+Çapalama bitti
+Yapılacak işlem: Gübreleme
+Mevcut konum: 1. tarla
+Gübreleme için en kısa yol: 1-6-2
+Toplam gidilen: ...
+Gübreleme bitti
+Yapılacak işlem: Sulama
+Mevcut konum: 1. tarla
+Sulama için en kısa yol: 1-6-2
+Toplam gidilen: ...
+Sulama bitti
+Yapılacak işlem: İlaçlama
+Mevcut konum: 2. tarla
+İlaçlama için en kısa yol: 2-10-5
+Toplam gidilen: ...
+İlaçlama bitti
+Yapılacak işlem: Sulama
+Mevcut konum: 2. tarla
+Sulama için en kısa yol: 2-10-5
+Toplam gidilen: ...
+Sulama bitti
+Yapılacak işlem: İlaçlama
+Mevcut konum: 5. tarla
+İlaçlama için en kısa yol: 5
+Toplam gidilen: ...
+İlaçlama bitti
+Yapılacak işlem: Çapalama
+Mevcut konum: 5. tarla
+Çapalama için en kısa yol: 5
+Toplam gidilen: ...
+Çapalama bitti
+Yapılacak işlem: Sulama
+Mevcut konum: 5. tarla
+Sulama için en kısa yol: 5
+Toplam gidilen: ...
+Sulama bitti
